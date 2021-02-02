@@ -3,4 +3,4 @@ A wordcloud is a handy way to explore text data and represent the frequency or t
 
 In this repo, text is extracted from a COVID-19 review article and a work cloud was generated in the shape of a COVID-19 virus particle.
 
-![Word Cloud](../master/myFolder/Coronavirus-CDC.jpg)
+![Word Cloud](https://github.com/jma199/nlp-wordcloud/blob/main/Coronavirus-CDC.jpg?raw=true 
